@@ -12,17 +12,18 @@ Extract font textures from `.phyre` files to PNG format.
 2. Choose an output directory for PNG files
 3. Click **Start**
 
+
 <div align="center">
-
-![Extract Mode Example](screenshots/extract_example.png)
-
+<img width="497" height="399" alt="Capture" src="https://github.com/user-attachments/assets/3c8b0792-3449-4f93-8daf-2f6e7b0d4c60" />
 </div>
 
 ---
 
 Inject
-**Steps:**
+
 Re-insert your edited textures back into `.phyre` files.
+
+**Steps:**
 1. Select the directory with original `.phyre` files
 2. Select the directory with modified PNG files
 3. Choose an output directory for modified files
